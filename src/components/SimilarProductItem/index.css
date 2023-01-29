@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.similar-product-items-container {
+  margin-right: 25px;
+}
+.similar-img {
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+}
+.similar-brand {
+  color: #616e7c;
+  font-size: 10px;
+}
+.similar-heading {
+  font-size: 12px;
+  font-weight: bold;
+}
+.price-rating {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.similar-product-price {
+  font-size: 10px;
+  font-weight: bold;
+}
+.similar-rating-btn {
+  background-color: #3b82f6;
+  border: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #ffffff;
+  width: 40px;
+  justify-content: center;
+  border-radius: 5px;
+  height: 18px;
+  font-size: 10px;
+  padding: 0px 5px;
+}
